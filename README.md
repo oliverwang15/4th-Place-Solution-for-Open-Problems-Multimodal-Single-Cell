@@ -3,12 +3,12 @@
 ![title](./pics/title.jpg)
 
 ## Results
-------
+
 - Private: 0.773145, 4th place
 - Public: 0.813093
 
 ## Solution
-------
+
 * You may find more detailed explanation [here](https://www.kaggle.com/competitions/open-problems-multimodal/discussion/366460) 
 
 ### Ⅰ. Cite
@@ -75,29 +75,29 @@
 * You may refer to the `ensemble` notebook
 
 ## File tree
-------
+
 ``` shell
 - working
-	- cite
-		- Catboost
-		- CNN
-		- GMNN
-		- Kernel_Ridge
-		- LGBM
-		- NN_Online
-		- Stacking
-	- data_preprocessing
-	- ensemble
-	- multi
-		- Catboost
-		- GMNN
-		- LGBM
-	- pics
-	- utils
+  - cite
+    - Catboost
+    - CNN
+    - GMNN
+    - Kernel_Ridge
+    - LGBM
+    - NN_Online
+    - Stacking
+  - data_preprocessing
+  - ensemble
+  - multi
+    - Catboost
+    - GMNN
+    - LGBM
+  - pics
+  - utils
 - input
-	- multimodal-single-cell-as-sparse-matrix # https://www.kaggle.com/datasets/fabiencrom/multimodal-single-cell-as-sparse-matrix
-	- open-problems-multimodal # https://www.kaggle.com/competitions/open-problems-multimodal/data
-	- open-problems-raw-counts # https://www.kaggle.com/datasets/ryanholbrook/open-problems-raw-counts
+  - multimodal-single-cell-as-sparse-matrix # https://www.kaggle.com/datasets/fabiencrom/multimodal-single-cell-as-sparse-matrix
+  - open-problems-multimodal # https://www.kaggle.com/competitions/open-problems-multimodal/data
+  - open-problems-raw-counts # https://www.kaggle.com/datasets/ryanholbrook/open-problems-raw-counts
 	
 ```
 
