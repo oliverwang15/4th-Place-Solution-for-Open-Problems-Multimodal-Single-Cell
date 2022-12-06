@@ -1,0 +1,9 @@
+*.npz
+*.npy
+*.pth
+*.tar.gz
+*.zip
+*.7z
+*.pkl
+*.tar
+*.log
