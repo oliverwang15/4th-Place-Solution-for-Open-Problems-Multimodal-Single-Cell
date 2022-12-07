@@ -98,7 +98,7 @@
     - LGBM
   - pics
   - utils
-- input
+- input (You need to download those data)
   - multimodal-single-cell-as-sparse-matrix # https://www.kaggle.com/datasets/fabiencrom/multimodal-single-cell-as-sparse-matrix
   - open-problems-multimodal # https://www.kaggle.com/competitions/open-problems-multimodal/data
   - open-problems-raw-counts # https://www.kaggle.com/datasets/ryanholbrook/open-problems-raw-counts
